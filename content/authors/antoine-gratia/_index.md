@@ -52,7 +52,7 @@ social:
     link: https://researchportal.unamur.be/fr/persons/antoine-gratia
   - icon: github
     icon_pack: fab
-    link: https://github.com/AntoineGr1
+    link: https://github.com/antgratia
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/antoine-gratia-6b627b1b5/
